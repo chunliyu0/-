@@ -1,5 +1,3 @@
-#include<string.h>
-
 //note: *s is not immuntable while s[] can be changed
 void reverseWords(char *s) {
 	int len = 0, begin = 0, end = 0, i;
@@ -11,11 +9,13 @@ void reverseWords(char *s) {
 		}		
 	}
 	s[len] = '\0';
-
+	
+	//reverse the whole string
 	for (i = 0; i < len / 2; i++) {
 		swap(s, i, len-1-i);
 	}
 	
+	//reverse each word back
 	for (i = 0;i<=len;i++) {
 		if (s[i] == ' '||s[i]=='\0') {
 			end = i - 1;
