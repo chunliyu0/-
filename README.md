@@ -1,5 +1,8 @@
 # Leetcode
 
+###66. Plus One [Solution](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)
+**Given a non-negative number represented as an array of digits, plus one to the number.**                                      **The digits are stored such that the most significant digit is at the head of the list.**                            
+
 ###136. Single Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/136_SingleNumber.c)
 **Given an array of integers, every element appears twice except for one. Find that single one.**                   
 *Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?*            
