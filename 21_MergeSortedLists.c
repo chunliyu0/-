@@ -1,4 +1,4 @@
-/*save the result to another list l3 (ret)*/
+/*save the result to another list l3 (ret) using the recursive method*/
 
 /**
  * Definition for singly-linked list.
