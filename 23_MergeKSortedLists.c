@@ -1,4 +1,18 @@
-/* Merge Sort because we can already merge two sorted lists*/
+/* Merge Sort because we can already merge two sorted lists.
+Everytime merge two lists until all the lists are merged into one。
+So the space complexity is 1;
+the time complexity will be O(n * k*log(k)). If there are k lists and n nums in each list.
+--times needed for each merge = times inside mergeTwoLists * times for merges rounds
+--the first merge: 2n * k/2. (end == k/2)
+--the second merge: 4n * k/4.
+--the third merge: 8n * k/8.
+--the last merge: kn * 1.
+2n * k/2 + 4n * k/4 + ... + (2^x)n * k/(2^x) = nk * x while k/(2^x) = 1 --> x = log2(k) ==> O(n * k*log(k))
+or analyze as follows:
+(1)For Merge-Sort, the average time complexity is O(k*log(k)).
+   To merge n lists in to one, it takes O(k*log(k)) in which k is the size of the big list.
+(2)for each Merge-Sort, namely mergeTwoLists, the time complexity is 2n in which n is the the nums in each list.
+*/
 
 /**
  * Definition for singly-linked list.
