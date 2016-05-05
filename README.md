@@ -4,7 +4,7 @@
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                      **The digits are stored such that the most significant digit is at the head of the list.**                            
 
 ###88. Merge Sorted Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/88_MergeSortedArray.c)
-**Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.**                                **For example, Given s = "the sky is blue", return "blue is sky the".**  
+**Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.**                              
 *Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
 
 ###136. Single Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/136_SingleNumber.c)
