@@ -1,6 +1,6 @@
 # Leetcode
 
-###21. Merge Two Sorted Lists [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)        
+###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [Solution FindAll and Relink](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
 ###66. Plus One [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)        [Solution in java](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.java)
