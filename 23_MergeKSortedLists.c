@@ -9,9 +9,9 @@
  */
  
  struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
-     //Base case
-    if(l1 == NULL)return l2;
-    if(l2==NULL)return l1;
+    //Base case
+    if(l1 == NULL) return l2;
+    if(l2 == NULL) return l1;
     
     struct ListNode *ret;
     
