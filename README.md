@@ -3,7 +3,7 @@
 ###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [Solution FindAll and Relink](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
-###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeKSortedLists.c)      
+###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/23_MergeKSortedLists.c)      
 **Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity. ** 
 
 ###66. Plus One [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)        [Solution in java](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.java)
