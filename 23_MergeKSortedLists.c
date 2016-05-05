@@ -1,4 +1,6 @@
-/* Merge Sort because we can already merge two sorted lists.
+/* MergeSort << Divide-And-Conquer*/
+
+/* MergeSort because we can already merge two sorted lists.
 Everytime merge two lists until all the lists are merged into one。
 So the space complexity is 1;
 the time complexity will be O(n * k*log(k)). If there are k lists and n nums in each list.
