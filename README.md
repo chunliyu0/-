@@ -1,6 +1,6 @@
 # Leetcode
 
-###66. Plus One [Solution](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)
+###66. Plus One [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)[Solution in java](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.java)
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                      **The digits are stored such that the most significant digit is at the head of the list.**                            
 
 ###88. Merge Sorted Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/88_MergeSortedArray.c)
