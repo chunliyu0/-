@@ -3,7 +3,8 @@
 ###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
 ** Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
-###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/23_MergeKSortedLists.c)    ** Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity. **
+###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/23_MergeKSortedLists.c)###
+** Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity. **
 
 ###26. Remove Duplicates from Sorted Array [Solution](https://github.com/ycl11761/Leetcode/blob/master/26_RemoveDuplicates.c) 
 ** Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.**
