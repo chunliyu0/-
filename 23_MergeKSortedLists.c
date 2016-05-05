@@ -1,4 +1,4 @@
-/* MergeSort << Divide-And-Conquer*/
+/* MergeSort << Divide-And-Conquer whose time complexity is O(n log n) if there are n nums in the list*/
 
 /* MergeSort because we can already merge two sorted lists.
 Everytime merge two lists until all the lists are merged into one。
