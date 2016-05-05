@@ -12,12 +12,10 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
     
     //Base case
     if(l1 == NULL){  
-        ret=l2;
-        return ret;
+        return l2;
     }
     if(l2==NULL){ 
-        ret=l1;
-        return ret;
+        return l1;
     }
     
     //recursive step
