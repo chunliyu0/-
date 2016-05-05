@@ -5,7 +5,7 @@ void moveZeroes(int* nums, int numsSize) {
     int i, j = 0, temp;
 
     //if i == j nothing will be changed with the element swapping with itself
-    //else i will move faster and the gap between i and j are 0's
+    //else i will always move faster and the gap between i and j is filled with 0's
     for (i = 0; i < numsSize; i++) {
           if (nums[i] != 0) {
               //Swap nums[i] and nums[j]
