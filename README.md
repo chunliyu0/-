@@ -1,18 +1,18 @@
 # Leetcode
 
 ###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
-** Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
+**Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
-###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/23_MergeKSortedLists.c)###
-** Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity. **
+###23. Merge K Sorted Lists [Merge-Sort Solution](https://github.com/ycl11761/Leetcode/blob/master/23_MergeKSortedLists.c)
+**Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.**
 
 ###26. Remove Duplicates from Sorted Array [Solution](https://github.com/ycl11761/Leetcode/blob/master/26_RemoveDuplicates.c) 
-** Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.**
-** Do not allocate extra space for another array, you must do this in place with constant memory.**                         
-** For example, Given input array nums = [1,1,2], Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.**        
+**Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.**
+**Do not allocate extra space for another array, you must do this in place with constant memory.**                         
+**For example, Given input array nums = [1,1,2], Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.**        
 
 ###66. Plus One [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)        [Solution in java](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.java)
-**Given a non-negative number represented as an array of digits, plus one to the number.**                                      **The digits are stored such that the most significant digit is at the head of the list.**                            
+**Given a non-negative number represented as an array of digits, plus one to the number.**                                    **The digits are stored such that the most significant digit is at the head of the list.**                            
 
 ###88. Merge Sorted Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/88_MergeSortedArrays.c)
 **Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.**                              
