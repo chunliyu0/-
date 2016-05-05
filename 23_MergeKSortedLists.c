@@ -24,7 +24,6 @@ or analyze as follows:
  * };
  */
  
-
  struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
     //Base case
     if(l1 == NULL) return l2;
