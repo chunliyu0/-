@@ -28,6 +28,10 @@
 *Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?*            
 
 ###151. Reverse Words in a String [Solution] (https://github.com/ycl11761/Leetcode/blob/master/151_ReverseWords.c)
-**Given an input string, reverse the string word by word.**                                                                     
-**For example, Given s = "the sky is blue", return "blue is sky the".**  
+**Given an input string, reverse the string word by word.**                                                                   **For example, Given s = "the sky is blue", return "blue is sky the".**  
 *Note: For C programmers: Try to solve it in-place in O(1) space.*      
+
+###283. Move Zeroes [Solution] (https://github.com/ycl11761/Leetcode/blob/master/283_MoveZeros.c)
+**Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
+**For example, given nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
+*Note:You must do this in-place without making a copy of the array and Minimize the total number of operations.* 
