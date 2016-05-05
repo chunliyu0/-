@@ -13,7 +13,8 @@ void merge(int* nums1, int m, int* nums2, int n) {
             nums1[k] = nums2[j--];
         }
     }
+    
+    //if i>=0 while j<0, then nums1 is already the result array. we only need to consider the case when nums2 has elements left.
     while(j>=0)
         nums1[k--] = nums2[j--];
-     
 }
