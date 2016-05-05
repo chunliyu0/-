@@ -14,6 +14,11 @@
 ###66. Plus One [Solution in c](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.c)        [Solution in java](https://github.com/ycl11761/Leetcode/blob/master/66_PlusOne.java)
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                    **The digits are stored such that the most significant digit is at the head of the list.**                            
 
+###80. Remove Duplicates from Sorted Array II [Solution](https://github.com/ycl11761/Leetcode/blob/master/80_removeDuplicatesII.c)
+**Follow up for "Remove Duplicates": What if duplicates are allowed at most twice?**
+**For example,Given sorted array nums = [1,1,1,2,2,3],Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new length. **                              
+*Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
+
 ###88. Merge Sorted Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/88_MergeSortedArrays.c)
 **Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.**                              
 *Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
