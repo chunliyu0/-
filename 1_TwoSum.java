@@ -12,8 +12,8 @@ public class Solution {
         }
         for(i=0;i<nums.length;i++){
             if(map.get(target-nums[i])!=null&&map.get(target-nums[i])!=i){
-                result[0] = i+1;
-                result[1] = map.get(target-nums[i])+1;
+                result[0] = i;
+                result[1] = map.get(target-nums[i]);
                 break;
             }
         }
