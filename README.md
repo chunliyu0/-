@@ -1,4 +1,6 @@
 # Leetcode
+###1. Two Sum [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/1_2Sum.java)         
+**Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution..**
 
 ###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
