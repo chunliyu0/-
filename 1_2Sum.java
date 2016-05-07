@@ -4,6 +4,7 @@ public class Solution {
         Map<Integer,Integer> map = new HashMap<Integer,Integer>();
         int i;
         
+        //the key cannot be repeated in a map. the first key will be replaced when it appears the second time
         for(i=0;i<nums.length;i++){
             map.put(nums[i],i);
         }
