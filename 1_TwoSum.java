@@ -1,3 +1,5 @@
+//Use a hashmap to save all the nums
+
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
