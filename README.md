@@ -44,7 +44,7 @@
 - d|o|g                   --> d1g
 - i|nternationalizatio|n  --> i18n
 - l|ocalizatio|n          --> l10n
-**Assume you have a dictionary and given a word, find whether its abbreviation is unique in the dictionary. A word's abbreviation is unique if no other word from the dictionary has the same abbreviation.**
+<br>**Assume you have a dictionary and given a word, find whether its abbreviation is unique in the dictionary. A word's abbreviation is unique if no other word from the dictionary has the same abbreviation.**
 **for example, Given dictionary = [ "deer", "door", "cake", "card" ], **
 **isUnique("dear") -> false,**  
 **isUnique("cart") -> true,**
