@@ -38,7 +38,7 @@
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
 *Note:You must do this in-place without making a copy of the array and Minimize the total number of operations.* 
 
-###288. Unique Word Abbreviation [Solution 1] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr.java) [Solution 2] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr2.Java)
+###288. Unique Word Abbreviation [Solution 1] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr.java) [Solution 2] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr2.java)
 **An abbreviation of a word follows the form <first letter><number><last letter>. Below are some examples of word abbreviations:**
 a) it                      --> it    (no abbreviation)
 b) d|o|g                   --> d1g
