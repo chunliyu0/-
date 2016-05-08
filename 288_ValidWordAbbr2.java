@@ -1,7 +1,11 @@
+//this solution adds the time complexity, because it does not check the repeation inside the dictionary and the remove operation is also a waste of time.
+
 public class ValidWordAbbr {
-     Map<String, String> map = new HashMap<String, String>();
-	
+     Map<String, String> map;
+     
+     //constructor
      public ValidWordAbbr(String[] dictionary) {
+     	map = new HashMap<String, String>();//str is the key while the abbr is the value;
         for(String str: dictionary){
             map.put(str, getAbbreviation(str));
         }
@@ -13,13 +17,13 @@ public class ValidWordAbbr {
         if(map.containsKey(word))
         	map.remove(word);
         
-    	return !map.containsValue(val))
+    	return !map.containsValue(val);
     }
     
     public String getAbbreviation(String word){
         int len = word.length();
         if(len<=2)
-            return word;
+        	return word;
         return  word.charAt(0) + Integer.toString(len-2) + word.charAt(len-1);
     }
 }
