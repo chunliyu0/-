@@ -54,6 +54,6 @@
 ###347. Top K Frequent Elements [Solution] (https://github.com/ycl11761/Leetcode/blob/master/347_TopKFrequent.java)
 **Given a non-empty array of integers, return the k most frequent elements.**
 **For example, Given [1,1,1,2,2,3] and k = 2, return [1,2].**</br>
-*Note: (1) you may assume k is always valid, 1 ≤ k ≤ number of unique elements.
-(2)Your algorithm's time complexity must be better than O(n log n), where n is the array's size..* 
+*Note: (1) you may assume k is always valid, 1 ≤ k ≤ number of unique elements.</br>
+       (2) Your algorithm's time complexity must be better than O(n log n), where n is the array's size..* 
 
