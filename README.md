@@ -39,12 +39,11 @@
 *Note:You must do this in-place without making a copy of the array and Minimize the total number of operations.* 
 
 ###288. Unique Word Abbreviation [Solution 1] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr.java) [Solution 2] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWordAbbr2.java)
-**An abbreviation of a word follows the form <first letter><number><last letter>. Below are some examples of word abbreviations:**
-- it                      --> it    (no abbreviation)
-- d|o|g                   --> d1g
-- i|nternationalizatio|n  --> i18n
-- l|ocalizatio|n          --> l10n
-<br>
+**An abbreviation of a word follows the form <first letter><number><last letter>. Below are some examples of word abbreviations:**<br>
+(a)it                      --> it    (no abbreviation)<br>
+(b)d|o|g                   --> d1g<br>
+(c)i|nternationalizatio|n  --> i18n<br>
+(d)l|ocalizatio|n          --> l10n<br>
 **Assume you have a dictionary and given a word, find whether its abbreviation is unique in the dictionary. A word's abbreviation is unique if no other word from the dictionary has the same abbreviation.**
 **for example, Given dictionary = [ "deer", "door", "cake", "card" ], **
 **isUnique("dear") -> false,**  
