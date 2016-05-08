@@ -1,5 +1,5 @@
 # Leetcode
-###1. Two Sum [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/1_TwoSum.java)         
+###001. Two Sum [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/001_TwoSum.java)         
 **Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.**
 
 ###21. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/21_MergeSortedLists2.c)      
