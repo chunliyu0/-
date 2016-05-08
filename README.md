@@ -37,3 +37,24 @@
 **Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
 *Note:You must do this in-place without making a copy of the array and Minimize the total number of operations.* 
+
+###288. Unique Word Abbreviation [Solution 1] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWorAbbr.Java) [Solution 2] (https://github.com/ycl11761/Leetcode/blob/master/288_ValidWorAbbr2.Java)
+**An abbreviation of a word follows the form <first letter><number><last letter>. Below are some examples of word abbreviations: **
+a) it                      --> it    (no abbreviation)
+
+     1
+b) d|o|g                   --> d1g
+
+              1    1  1
+     1---5----0----5--8
+c) i|nternationalizatio|n  --> i18n
+
+              1
+     1---5----0
+d) l|ocalizatio|n          --> l10n
+**Assume you have a dictionary and given a word, find whether its abbreviation is unique in the dictionary. A word's abbreviation is unique if no other word from the dictionary has the same abbreviation.**
+**for example, Given dictionary = [ "deer", "door", "cake", "card" ], **
+**isUnique("dear") -> false,**
+**isUnique("cart") -> true,**
+**isUnique("cane") -> false,**
+**isUnique("make") -> true**
