@@ -13,8 +13,14 @@
 **Do not allocate extra space for another array, you must do this in place with constant memory.**                         
 **For example, Given input array nums = [1,1,2], Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.**        
 
+###041. First Missing Positive [C Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.c) 
+**Given an unsorted integer array, find the first missing positive integer.**</br>
+**For example, Given [1,2,0] return 3, and [3,4,-1,1] return 2.**</br>
+**Your algorithm should run in O(n) time and uses constant space.** 
+   
 ###066. Plus One [C Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.c)        [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.java)
-**Given a non-negative number represented as an array of digits, plus one to the number.**                                    **The digits are stored such that the most significant digit is at the head of the list.**                            
+**Given a non-negative number represented as an array of digits, plus one to the number.**</br>                                    
+**The digits are stored such that the most significant digit is at the head of the list.**                            
 
 ###080. Remove Duplicates from Sorted Array II [Solution](https://github.com/ycl11761/Leetcode/blob/master/080_RemoveDuplicatesII.c)
 **Follow up for "Remove Duplicates": What if duplicates are allowed at most twice?**
