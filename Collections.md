@@ -1,3 +1,4 @@
 [The Beauty of Programming](https://asanchina.wordpress.com/)</br>
 [[刷题总结] Leetcode 原创短答案，精炼解析](http://www.meetqun.com/thread-15684-1-1.html)</br>
 [喜刷刷](http://bangbingsyb.blogspot.com/2014/11/leetcode-first-missing-positive.html)
+[九章算法](http://www.jiuzhang.com/solutions/)</br>
