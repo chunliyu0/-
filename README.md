@@ -2,6 +2,12 @@
 ###001. Two Sum [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/001_TwoSum.java)         
 **Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.**
 
+###008. Two Sum [Solution](https://github.com/ycl11761/Leetcode/blob/master/008_MyAtoi.c)         
+**Implement atoi to convert a string to an integer. </br>**
+**Hint: Carefully consider all possible input cases. If you want a challenge, please do not see below and ask yourself what are the possible input cases.**</br>
+
+*Notes: It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.*
+
 ###021. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
