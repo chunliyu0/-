@@ -51,6 +51,12 @@
 **For example, Given s = "the sky is blue", return "blue is sky the". Could you do it in-place without allocating extra space?**</br>
 *Note: For C programmers: Try to solve it in-place in O(1) space.*      
 
+###189. Rotate Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/189_RotateArray.c)
+**Rotate an array of n elements to the right by k steps.**</br>
+**For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].**
+*Note: Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.*</br>
+*Try to solve it in-place in O(1) space.*
+
 ###283. Move Zeroes [Solution] (https://github.com/ycl11761/Leetcode/blob/master/283_MoveZeros.c)
 **Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
