@@ -1,6 +1,7 @@
 /* Analysis
 (1) Reverse the whole string first -> Reverse each string
 (2) For the last string, the punctuation marks should be considered.
+*/
 
 void swap(char *a, char *b){
     char tmp = *a;
