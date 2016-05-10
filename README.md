@@ -2,7 +2,7 @@
 ###001. Two Sum [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/001_TwoSum.java)         
 **Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.**
 
-###008. Two Sum [Solution](https://github.com/ycl11761/Leetcode/blob/master/008_MyAtoi.c)         
+###008. String to Integer [Solution](https://github.com/ycl11761/Leetcode/blob/master/008_MyAtoi.c)         
 **Implement atoi to convert a string to an integer. </br>**
 **Hint: Carefully consider all possible input cases. If you want a challenge, please do not see below and ask yourself what are the possible input cases.**</br>
 
