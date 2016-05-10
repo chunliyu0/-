@@ -45,6 +45,12 @@
 **Given an input string, reverse the string word by word.**                                                                   **For example, Given s = "the sky is blue", return "blue is sky the".**  
 *Note: For C programmers: Try to solve it in-place in O(1) space.*      
 
+###186. Reverse Words in a String [Solution] (https://github.com/ycl11761/Leetcode/blob/master/186_ReverseWordsII.c)
+**Given an input string, reverse the string word by word. A word is defined as a sequence of non-space characters.**</br>
+**The input string does not contain leading or trailing spaces and the words are always separated by a single space.**</br>
+**For example, Given s = "the sky is blue", return "blue is sky the". Could you do it in-place without allocating extra space?**</br>
+*Note: For C programmers: Try to solve it in-place in O(1) space.*      
+
 ###283. Move Zeroes [Solution] (https://github.com/ycl11761/Leetcode/blob/master/283_MoveZeros.c)
 **Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
