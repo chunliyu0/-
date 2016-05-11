@@ -57,6 +57,10 @@
 *Note: Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.*</br>
 *Try to solve it in-place in O(1) space.*
 
+###266. Palindrome Permutation [Solution] (https://github.com/ycl11761/Leetcode/blob/master/266_PalindromePermutation.c)
+**Given a string, determine if a permutation of the string could form a palindrome.**</br>
+**For example, "code" -> False, "aab" -> True, "carerac" -> True.**
+
 ###283. Move Zeroes [Solution] (https://github.com/ycl11761/Leetcode/blob/master/283_MoveZeros.c)
 **Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
