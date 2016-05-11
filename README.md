@@ -46,10 +46,12 @@
 *Note: For C programmers: Try to solve it in-place in O(1) space.*      
 
 ###167. Two Sum II - Input array is sorted [Solution] (https://github.com/ycl11761/Leetcode/blob/master/167_TwoSumII.c)
-**Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.**</br>
-**The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.**</br>
-**You may assume that each input would have exactly one solution.**
-**Input: numbers={2, 7, 11, 15}, target=9; Output: index1=1, index2=2**                                                                **For example, Given s = "the sky is blue", return "blue is sky the".**  
+**Given an array of integers that is already sorted in ascending order, </br>**
+**find two numbers such that they add up to a specific target number.**</br>
+**The function twoSum should return indices of the two numbers such that they add up to the target,**</br>
+**where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.**</br>
+**You may assume that each input would have exactly one solution.**</br>
+**Input: numbers={2, 7, 11, 15}, target=9; Output: index1=1, index2=2**</br>                                                        **For example, Given s = "the sky is blue", return "blue is sky the".**</br> 
 *Note: For C programmers: Try to solve it in-place in O(1) space.* 
 
 ###186. Reverse Words in a String II [Solution] (https://github.com/ycl11761/Leetcode/blob/master/186_ReverseWordsII.c)
