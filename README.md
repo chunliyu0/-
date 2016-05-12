@@ -28,7 +28,10 @@
 
 ###066. Plus One [C Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.c)        [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.java)
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                       
-**The digits are stored such that the most significant digit is at the head of the list.**                            
+**The digits are stored such that the most significant digit is at the head of the list.**   
+
+###069. Sqrt(x) [Solution](https://github.com/ycl11761/Leetcode/blob/master/069_Sqrt.c)       
+**Implement int sqrt(int x). Compute and return the square root of x.**                                       
 
 ###080. Remove Duplicates from Sorted Array II [Solution](https://github.com/ycl11761/Leetcode/blob/master/080_RemoveDuplicatesII.c)
 **Follow up for "Remove Duplicates": What if duplicates are allowed at most twice?**
