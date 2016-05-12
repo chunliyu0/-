@@ -24,6 +24,8 @@
 **For example, Given [1,2,0] return 3, and [3,4,-1,1] return 2.**</br>
 **Your algorithm should run in O(n) time and uses constant space.** 
    
+###050. Implement pow(x, n) [C Solution](https://github.com/ycl11761/Leetcode/blob/master/050_Pow(x,n\).c) 
+
 ###066. Plus One [C Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.c)        [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.java)
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                       
 **The digits are stored such that the most significant digit is at the head of the list.**                            
