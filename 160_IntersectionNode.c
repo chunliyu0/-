@@ -1,3 +1,9 @@
+/* Analysis
+Decide if two lists have the intersection based on the last node.
+Get the lengths of the two nodes and move the longer node steps further until it gets the starting point of the shorter node.
+move the two pointers together to see where they meet.
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -40,6 +46,7 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
         diff--;
     }
     
+    //check the intersection node.
     while(p!=q){
         p = p->next;
         q = q->next;
