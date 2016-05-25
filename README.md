@@ -65,13 +65,13 @@
 *Note: For C programmers: Try to solve it in-place in O(1) space.*
 
 ###160. Intersection of Two Linked Lists [Solution] (https://github.com/ycl11761/Leetcode/blob/master/160_IntersectionNode.c)
-**Write a program to find the node at which the intersection of two singly linked lists begins.**</br>                                                                   
+**Write a program to find the node at which the intersection of two singly linked lists begins.**</br>                                                        
 **For example, the following two linked lists: begin to intersect at node c1.**</br> 
-A:          a1 → a2
-                   ↘
-                     c1 → c2 → c3
-                   ↗            
-B:     b1 → b2 → b3
+A:          a1 → a2</br>
+                   ↘</br>
+                     c1 → c2 → c3</br>
+                   ↗</br>            
+B:     b1 → b2 → b3</br>
 
 ###167. Two Sum II - Input array is sorted [Solution] (https://github.com/ycl11761/Leetcode/blob/master/167_TwoSumII.c)
 **Given an array of integers that is already sorted in ascending order, </br>**
