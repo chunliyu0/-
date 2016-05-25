@@ -38,6 +38,12 @@
 **For example,Given sorted array nums = [1,1,1,2,2,3],Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new length.**                              
 *Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
 
+###082. Remove Duplicates from Sorted List II [Solution](https://github.com/ycl11761/Leetcode/blob/master/082_RemoveDuplicatesII.c)
+**Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.**
+**For example,**
+**Given 1->2->3->3->4->4->5, return 1->2->5.** 
+**Given 1->1->1->2->3, return 2->3.**
+
 ###088. Merge Sorted Array [Solution] (https://github.com/ycl11761/Leetcode/blob/master/088_MergeSortedArrays.c)
 **Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.**                              
 *Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
