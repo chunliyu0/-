@@ -69,6 +69,13 @@
 A:          a1 → a2 → c1 → c2 → c3</br>
 B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 
+###162. Find Peak Element [Solution] (https://github.com/ycl11761/Leetcode/blob/master/162_FindPeakElement.c)
+**A peak element is an element that is greater than its neighbors.**</br>
+**Given an input array where num[i] ≠ num[i+1], find a peak element and return its index.**</br>
+**The array may contain multiple peaks, in that case return the index to any one of the peaks is fine.**</br>
+**You may imagine that num[-1] = num[n] = -∞.**</br>
+**For example, in array [1, 2, 3, 1], 3 is a peak element and your function should return the index number 2.**</br>                
+
 ###167. Two Sum II - Input array is sorted [Solution] (https://github.com/ycl11761/Leetcode/blob/master/167_TwoSumII.c)
 **Given an array of integers that is already sorted in ascending order, </br>**
 **find two numbers such that they add up to a specific target number.**</br>
