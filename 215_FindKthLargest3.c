@@ -1,3 +1,7 @@
+/* Analysis
+Using treeMap to sort the array automatically
+*/
+
 public class Solution {
     public int findKthLargest(int[] nums, int k) {
         TreeMap<Integer, Integer> map = new TreeMap<Integer, Integer>();
