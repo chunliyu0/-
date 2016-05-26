@@ -9,9 +9,9 @@ public class Solution {
        for(int num: nums){
            pq.offer(num);
            if(pq.size()>k){
-               pq.poll();
+               pq.poll();//add element to the PriorityQueue
            }
        }
-       return pq.peek();
+       return pq.peek();//get the 1st element in the PriorityQueue
     }
 }
