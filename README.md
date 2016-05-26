@@ -118,7 +118,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Note: (1) you may assume k is always valid, 1 ≤ k ≤ number of unique elements.</br>
        (2) Your algorithm's time complexity must be better than O(n log n), where n is the array's size..* 
 
-###349. Top K Frequent Elements [Solution] (https://github.com/ycl11761/Leetcode/blob/master/349_IntersectionOfTwoArrays.c)
+###349.  Intersection of Two Arrays [Solution] (https://github.com/ycl11761/Leetcode/blob/master/349_IntersectionOfTwoArrays.c)
 **Given two arrays, write a function to compute their intersection.**
 **Example: Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].**
 *Note: Each element in the result must be unique.The result can be in any order.
