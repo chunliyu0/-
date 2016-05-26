@@ -69,7 +69,7 @@
 A:          a1 → a2 → c1 → c2 → c3</br>
 B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 
-###162. Find Peak Element [Solution] (https://github.com/ycl11761/Leetcode/blob/master/162_FindPeakElement.c)
+###162. Find Peak Element [Solution] (https://github.com/ycl11761/Leetcode/blob/master/162_FindPeakElement.c)[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/162_FindPeakElement2.c)
 **A peak element is an element that is greater than its neighbors.**</br>
 **Given an input array where num[i] ≠ num[i+1], find a peak element and return its index.**</br>
 **The array may contain multiple peaks, in that case return the index to any one of the peaks is fine.**</br>
