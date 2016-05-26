@@ -127,7 +127,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Given two arrays, write a function to compute their intersection.**</br>
 **Example: Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2, 2].**</br>
 *Note:Each element in the result should appear as many times as it shows in both arrays.The result can be in any order..*</br>
-Follow up:
+--Follow up:</br>
 What if the given array is already sorted? How would you optimize your algorithm?</br>
 What if nums1's size is small compared to num2's size? Which algorithm is better?</br>
 What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?</br>
