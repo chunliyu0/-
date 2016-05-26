@@ -91,8 +91,8 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Try to solve it in-place in O(1) space.*
 
 ###215. Kth Largest Element in an Array [Solution1] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest.c)
-###[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest2.c)**
-###[Solution3] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest3.c)**</br>
+###[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest2.c)
+###[Solution3] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest3.c)</br>
 **Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.**</br>
 **For example, Given [3,2,1,5,6,4] and k = 2, return 5.**</br>
 *Note: You may assume k is always valid, 1 ≤ k ≤ array's length.*</br>
