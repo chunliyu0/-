@@ -97,6 +97,10 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Note: Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.*</br>
 *Try to solve it in-place in O(1) space.*
 
+###191. Number of 1 Bits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/191_NumberOf1Bits.c)
+**Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the Hamming weight).**</br>
+**For example, the 32-bit integer ’11' has binary representation 00000000000000000000000000001011, so the function should return 3.**
+
 ###215. Kth Largest Element in an Array [Solution1] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest.c)
 ###[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest2.c)
 ###[Solution3] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest3.c)</br>
