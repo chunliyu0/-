@@ -136,6 +136,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Note: (1) you may assume k is always valid, 1 ≤ k ≤ number of unique elements.</br>
        (2) Your algorithm's time complexity must be better than O(n log n), where n is the array's size..* 
 
+###342. Power of Four [Solution] (https://github.com/ycl11761/Leetcode/blob/master/342_PowerOfFour.c)
+**Given an integer (signed 32 bits), write a function to check whether it is a power of 4.**</br>
+**Example: Given num = 16, return true. Given num = 5, return false.**</br>
+**Follow up: Could you solve it without loops/recursion?**
+
 ###349.  Intersection of Two Arrays [Solution] (https://github.com/ycl11761/Leetcode/blob/master/349_IntersectionOfTwoArrays.c)
 **Given two arrays, write a function to compute their intersection.**
 **Example: Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].**
