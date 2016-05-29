@@ -144,7 +144,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Given an integer, write a function to determine if it is a power of three.**</br>
 **Follow up: Could you do it without using any loop / recursion?**
 
-###338. Counting Bits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/338_CountBits.c)
+###338. Counting Bits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/338_CountingBits.c)
 **Given a non negative integer number num. **
 **For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.**
 **Example: For num = 5 you should return [0,1,1,2,1,2].**
