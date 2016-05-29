@@ -127,7 +127,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **isUnique("make") -> true**
 
 ###326. Power of Three [Solution] (https://github.com/ycl11761/Leetcode/blob/master/326_PowerOfThree.java)
-**Given an integer, write a function to determine if it is a power of three.**
+**Given an integer, write a function to determine if it is a power of three.**</br>
 **Follow up: Could you do it without using any loop / recursion?**
 
 ###347. Top K Frequent Elements [Solution] (https://github.com/ycl11761/Leetcode/blob/master/347_TopKFrequent.java)
