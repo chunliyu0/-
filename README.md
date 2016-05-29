@@ -97,7 +97,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Note: Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.*</br>
 *Try to solve it in-place in O(1) space.*
 
-###190. Reverse Bits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/190_ReverserBits.c)
+###190. Reverse Bits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/190_ReverseBits.c)
 **Reverse bits of a given 32 bits unsigned integer.**</br>
 **For example, given input 43261596 (represented in binary as 00000010100101000001111010011100), return 964176192 (represented in binary as 00111001011110000010100101000000).**</br>
 **Follow up: If this function is called many times, how would you optimize it?**
