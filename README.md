@@ -90,6 +90,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Input: numbers={2, 7, 11, 15}, target=9; Output: index1=1, index2=2**</br>                                                        **For example, Given s = "the sky is blue", return "blue is sky the".**</br> 
 *Note: For C programmers: Try to solve it in-place in O(1) space.* 
 
+###179. Largest Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/179_LargestNumber.java)
+**Given a list of non negative integers, arrange them such that they form the largest number.**</br>
+**For example, given [3, 30, 34, 5, 9], the largest formed number is 9534330.**</br>
+*Note: The result may be very large, so you need to return a string instead of an integer.*
+
 ###186. Reverse Words in a String II [Solution] (https://github.com/ycl11761/Leetcode/blob/master/186_ReverseWordsII.c)
 **Given an input string, reverse the string word by word. A word is defined as a sequence of non-space characters.**</br>
 **The input string does not contain leading or trailing spaces and the words are always separated by a single space.**</br>
