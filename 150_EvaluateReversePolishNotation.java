@@ -1,3 +1,9 @@
+/* Analysis
+(1) if it's number, push into the stack
+(2) if it's the operator, do the corresponding calculation
+(3) pay attention to the order of the operends.
+*/
+
 public class Solution {
     public int evalRPN(String[] tokens) {
         if(tokens == null)return 0;
