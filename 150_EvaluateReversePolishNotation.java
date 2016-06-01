@@ -19,7 +19,6 @@ public class Solution {
                 int tmp = 0;
                 int op1 = (int)stk.pop();
                 int op2 = (int)stk.pop();
-                //System.out.println("op1 = " + op1 + ", op2 = " + op2);
                 if(tokens[i].equals("+"))
                      tmp =  op2 + op1;
                 else if(tokens[i].equals("-"))
@@ -28,7 +27,6 @@ public class Solution {
                      tmp =  op2 * op1;
                 else if(tokens[i].equals("/"))
                      tmp =  op2 / op1;
-        //System.out.println("tmp = " + tmp);
                 stk.push(tmp);
             } 
         }
