@@ -64,6 +64,13 @@
 ###142. Linked List Cycle II. [Solution] (https://github.com/ycl11761/Leetcode/blob/master/142_LinkedListCycleII.c)
 **Given a linked list, return the node where the cycle begins. If there is no cycle, return null**</br>                               *Follow up: Can you solve it without using extra space?*
 
+###150. Evaluate Reverse Polish Notation [Solution] (https://github.com/ycl11761/Leetcode/blob/master/150_EvaluateReversePolishNotation.java)
+**Evaluate the value of an arithmetic expression in Reverse Polish Notation.**</br>
+**Valid operators are +, -, *, /. Each operand may be an integer or another expression.**</br>
+**Some examples:</br>**
+**  ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9**</br>
+**  ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6**</br>
+
 ###151. Reverse Words in a String [Solution] (https://github.com/ycl11761/Leetcode/blob/master/151_ReverseWords.c)
 **Given an input string, reverse the string word by word.**</br>                                                                   
 **For example, Given s = "the sky is blue", return "blue is sky the".**</br>  
