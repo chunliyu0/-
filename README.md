@@ -146,6 +146,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **You may assume that the given expression is always valid.**</br>
 **Some examples: "3+2*2" = 7, " 3/2 " = 1, " 3+5 / 2 " = 5**</br>
 
+###258. Add Digits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/258_AddDigits.c)
+**Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.**</br>
+**For example: Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.**</br>
+**Follow up: Could you do it without any loop/recursion in O(1) runtime?**
+
 ###266. Palindrome Permutation [Solution] (https://github.com/ycl11761/Leetcode/blob/master/266_PalindromePermutation.c)
 **Given a string, determine if a permutation of the string could form a palindrome.**</br>
 **For example, "code" -> False, "aab" -> True, "carerac" -> True.**
