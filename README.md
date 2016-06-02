@@ -35,6 +35,10 @@
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                       
 **The digits are stored such that the most significant digit is at the head of the list.**   
 
+###067. Add Binary [Solution](https://github.com/ycl11761/Leetcode/blob/master/067_AddBinary.c)       
+**Given two binary strings, return their sum (also a binary string).**</br>
+**For example, a = "11", b = "1", Return "100".**</br>
+
 ###069. Sqrt(x) [Solution](https://github.com/ycl11761/Leetcode/blob/master/069_Sqrt.c)       
 **Implement int sqrt(int x). Compute and return the square root of x.**                                       
 
