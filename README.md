@@ -22,6 +22,10 @@
 **Given an integer, convert it to a roman numeral.**</br>
 **Input is guaranteed to be within the range from 1 to 3999. **
 
+###013. Roman to Integer [Solution](https://github.com/ycl11761/Leetcode/blob/master/013_RomanToInteger.c)     
+**Given a roman numeral, convert it to an integer.**</br>
+**Input is guaranteed to be within the range from 1 to 3999.**
+
 ###021. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
