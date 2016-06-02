@@ -164,6 +164,12 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **For example: Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.**</br>
 **Follow up: Could you do it without any loop/recursion in O(1) runtime?**
 
+###263. Ugly Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/263_UglyNumber.java)
+**Write a program to check whether a given number is an ugly number.**</br>
+**Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. **</br>
+**For example, 6, 8 are ugly while 14 is not ugly since it includes another prime factor 7. **</br>
+**Note that 1 is typically treated as an ugly number.**
+
 ###266. Palindrome Permutation [Solution] (https://github.com/ycl11761/Leetcode/blob/master/266_PalindromePermutation.c)
 **Given a string, determine if a permutation of the string could form a palindrome.**</br>
 **For example, "code" -> False, "aab" -> True, "carerac" -> True.**
