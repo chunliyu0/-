@@ -18,6 +18,10 @@
 
 *Notes: It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.*
 
+###012. Integer to Roman [Solution](https://github.com/ycl11761/Leetcode/blob/master/012_IntegerToRoman.java)     
+**Given an integer, convert it to a roman numeral.**</br>
+**Input is guaranteed to be within the range from 1 to 3999. **
+
 ###021. Merge Two Sorted Lists [Recursive Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists.c)   [FindAll-Relink Solution](https://github.com/ycl11761/Leetcode/blob/master/021_MergeSortedLists2.c)      
 **Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.**                                      
 
