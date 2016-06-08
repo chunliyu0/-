@@ -37,7 +37,7 @@
 **Do not allocate extra space for another array, you must do this in place with constant memory.**                         
 **For example, Given input array nums = [1,1,2], Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.**        
 
-###028. Implement strStr() [Solution](https://github.com/ycl11761/Leetcode/blob/master/028_strStr.c)
+###028. Implement strStr() [Solution](https://github.com/ycl11761/Leetcode/blob/master/028_strStr().c)
 **Implement strStr(). Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.**
 
 ###041. First Missing Positive [C Solution](https://github.com/ycl11761/Leetcode/blob/master/041_FirstMissingPositive.c) 
