@@ -118,8 +118,8 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 *Note: For C programmers: Try to solve it in-place in O(1) space.* 
 
 ###171. Excel Sheet Column Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/171_ExcelSheetColumnNumber.c)
-** Given a column title as appear in an Excel sheet, return its corresponding column number. **
-** For example: A -> 1, B -> 2, C -> 3 ... Z -> 26, AA -> 27, AB -> 28 **</br>
+**Given a column title as appear in an Excel sheet, return its corresponding column number.**
+**For example: A -> 1, B -> 2, C -> 3 ... Z -> 26, AA -> 27, AB -> 28**</br>
 
 ###179. Largest Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/179_LargestNumber.java)
 **Given a list of non negative integers, arrange them such that they form the largest number.**</br>
