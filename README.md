@@ -158,6 +158,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **For example, Given [3,2,1,5,6,4] and k = 2, return 5.**</br>
 *Note: You may assume k is always valid, 1 ≤ k ≤ array's length.*</br>
 
+###223. Rectangle Area [Solution] (https://github.com/ycl11761/Leetcode/blob/master/223_RectangleArea.c)
+**Find the total area covered by two rectilinear rectangles in a 2D plane.**</br>
+**Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.**</br>
+**Assume that the total area is never beyond the maximum possible value of int.**</br>
+
 ###224. Basic Calculator [Solution] (https://github.com/ycl11761/Leetcode/blob/master/224_BasicCalculator.java)
 **Implement a basic calculator to evaluate a simple expression string.**</br>
 **The expression string may contain open ( and closing parentheses ), the plus + or minus sign -, non-negative integers and empty spaces. You may assume that the given expression is always valid.**</br>
