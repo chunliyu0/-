@@ -117,6 +117,10 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Input: numbers={2, 7, 11, 15}, target=9; Output: index1=1, index2=2**</br>                                                        **For example, Given s = "the sky is blue", return "blue is sky the".**</br> 
 *Note: For C programmers: Try to solve it in-place in O(1) space.* 
 
+###168. Excel Sheet Column Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/168_ExcelSheetColumnTitle.java)
+**Given a positive integer, return its corresponding column title as appear in an Excel sheet.**
+**For example: 1 -> A, 2 -> B, 3 -> C ... 26 -> Z, 27 -> AA, 28 -> AB**
+
 ###171. Excel Sheet Column Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/171_ExcelSheetColumnNumber.c)
 **Given a column title as appear in an Excel sheet, return its corresponding column number.**
 **For example: A -> 1, B -> 2, C -> 3 ... Z -> 26, AA -> 27, AB -> 28**</br>
