@@ -186,6 +186,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **For example, 6, 8 are ugly while 14 is not ugly since it includes another prime factor 7. **</br>
 **Note that 1 is typically treated as an ugly number.**
 
+###264. Ugly Number II[Solution] (https://github.com/ycl11761/Leetcode/blob/master/264_UglyNumberII.c)
+**Write a program to find the n-th ugly number. Ugly numbers are positive numbers whose prime factors only include 2, 3, 5.**
+**For example, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12 is the sequence of the first 10 ugly numbers.**
+**Note that 1 is typically treated as an ugly number.**
+
 ###266. Palindrome Permutation [Solution] (https://github.com/ycl11761/Leetcode/blob/master/266_PalindromePermutation.c)
 **Given a string, determine if a permutation of the string could form a palindrome.**</br>
 **For example, "code" -> False, "aab" -> True, "carerac" -> True.**
