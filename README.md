@@ -45,7 +45,13 @@
 **For example, Given [1,2,0] return 3, and [3,4,-1,1] return 2.**</br>
 **Your algorithm should run in O(n) time and uses constant space.** 
    
-###050. Implement pow(x, n) [C Solution](https://github.com/ycl11761/Leetcode/blob/master/050_Pow.c) 
+###050. Implement pow(x, n) [C Solution](https://github.com/ycl11761/Leetcode/blob/master/050_Pow.c)
+
+###058. Length of Last Word [C Solution](https://github.com/ycl11761/Leetcode/blob/master/058_LengthOfLastWord.c)
+**Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.**</br>
+**If the last word does not exist, return 0.**</br>
+**Note: A word is defined as a character sequence consists of non-space characters only.**</br>
+**For example, Given s = "Hello World", return 5.**</br>
 
 ###066. Plus One [C Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.c)        [Java Solution](https://github.com/ycl11761/Leetcode/blob/master/066_PlusOne.java)
 **Given a non-negative number represented as an array of digits, plus one to the number.**                                       
