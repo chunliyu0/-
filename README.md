@@ -26,7 +26,7 @@
 **Given a roman numeral, convert it to an integer.**</br>
 **Input is guaranteed to be within the range from 1 to 3999.**
 
-###017. Roman to Integer [Solution](https://github.com/ycl11761/Leetcode/edit/master/17_PhoneNumber.java)     
+###017. Letter Combinations of a Phone Number [Solution](https://github.com/ycl11761/Leetcode/edit/master/17_PhoneNumber.java)     
 **Given a digit string, return all possible letter combinations that the number could represent.**</br>
 **A mapping of digit to letters (just like on the telephone buttons) is given below.**</br>
 **Input:Digit string "23", Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].**</br>
