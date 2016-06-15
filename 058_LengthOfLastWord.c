@@ -1,3 +1,8 @@
+/* Analysis
+(1) scan from the tailing and ignore the spaces from the end
+(1) do a second scan from the valid place until a space shows up.
+*/
+
 int lengthOfLastWord(char* s) {
     if(s==NULL||strlen(s)==0)return 0;
     
