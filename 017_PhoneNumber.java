@@ -1,3 +1,7 @@
+/* Analysis
+Combination (0, n) = combination(0) + combination(1,n);
+*/
+
 public class Solution {
     public List<String> letterCombinations(String digits) {
         if(digits == null || digits.length()==0)
