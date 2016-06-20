@@ -186,7 +186,7 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **You may assume that the given expression is always valid.**</br>
 **Some examples: "3+2*2" = 7, " 3/2 " = 1, " 3+5 / 2 " = 5**</br>
 
-###238. Add Digits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/238_ProductOfArrayExceptSelf.c)
+###238. Product of Array Except Self [Solution] (https://github.com/ycl11761/Leetcode/blob/master/238_ProductOfArrayExceptSelf.c)
 **Given an array of n integers where n > 1, nums,**</br>
 **return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].**</br>
 **Solve it without division and in O(n).**</br>
