@@ -45,6 +45,12 @@
 ###028. Implement strStr() [Solution](https://github.com/ycl11761/Leetcode/blob/master/028_strStr().c)
 **Implement strStr(). Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.**
 
+###034. Search for a Range [Solution](https://github.com/ycl11761/Leetcode/blob/master/034_SearchForARange.c)
+**Given a sorted array of integers, find the starting and ending position of a given target value.**</br>
+**Your algorithm's runtime complexity must be in the order of O(log n).**</br>
+**If the target is not found in the array, return [-1, -1].**</br>
+**For example, Given [5, 7, 7, 8, 8, 10] and target value 8, return [3, 4].**
+
 ###041. First Missing Positive [C Solution](https://github.com/ycl11761/Leetcode/blob/master/041_FirstMissingPositive.c) 
 **Given an unsorted integer array, find the first missing positive integer.**</br>
 **For example, Given [1,2,0] return 3, and [3,4,-1,1] return 2.**</br>
