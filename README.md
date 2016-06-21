@@ -218,6 +218,13 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Given a string, determine if a permutation of the string could form a palindrome.**</br>
 **For example, "code" -> False, "aab" -> True, "carerac" -> True.**
 
+###278. First Bad Version [Solution] (https://github.com/ycl11761/Leetcode/blob/master/278_FirstBadVersion.c)
+**You are a product manager and currently leading a team to develop a new product.**</br>
+**Unfortunately, the latest version of your product fails the quality check.**</br>
+**Since each version is developed based on the previous version, all the versions after a bad version are also bad.**</br>
+**Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.**</br>
+**You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.**</br>
+
 ###283. Move Zeroes [Solution] (https://github.com/ycl11761/Leetcode/blob/master/283_MoveZeros.c)
 **Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.**
 **For example, nums = [0, 1, 0, 3, 12], after calling your function, nums should be [1, 3, 12, 0, 0].**
