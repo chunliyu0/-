@@ -174,6 +174,14 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the Hamming weight).**</br>
 **For example, the 32-bit integer ’11' has binary representation 00000000000000000000000000001011, so the function should return 3.**
 
+###202. Happy Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/202_HappyNumber.java)
+**Write an algorithm to determine if a number is "happy".**</br>
+**A happy number is a number defined by the following process:**</br>
+**Starting with any positive integer, replace the number by the sum of the squares of its digits, **</br>
+**and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.**</br>
+**Those numbers for which this process ends in 1 are happy numbers.**</br>
+**Example: 19 is a happy number, 12 + 92 = 82, 82 + 22 = 68, 62 + 82 = 100, 12 + 02 + 02 = 1**</br>
+
 ###215. Kth Largest Element in an Array [Solution1] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest.c)
 ###[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest2.c)
 ###[Solution3] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest3.c)</br>
