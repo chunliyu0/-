@@ -182,6 +182,13 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Those numbers for which this process ends in 1 are happy numbers.**</br>
 **Example: 19 is a happy number, 12 + 92 = 82, 82 + 22 = 68, 62 + 82 = 100, 12 + 02 + 02 = 1**</br>
 
+###205. Isomorphic Strings [Solution] (https://github.com/ycl11761/Leetcode/blob/master/205_IsomorphicStrings.java)
+**Given two strings s and t, determine if they are isomorphic.**</br>
+**Two strings are isomorphic if the characters in s can be replaced to get t.**</br>
+**All occurrences of a character must be replaced with another character while preserving the order of characters. **</br>
+**No two characters may map to the same character but a character may map to itself.**</br>
+**For example, Given "egg", "add", return true. Given "foo", "bar", return false. Given "paper", "title", return true.**</br>
+
 ###215. Kth Largest Element in an Array [Solution1] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest.c)
 ###[Solution2] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest2.c)
 ###[Solution3] (https://github.com/ycl11761/Leetcode/blob/master/215_FindKthLargest3.c)</br>
