@@ -1,3 +1,8 @@
+/* Analysis - HashMap
+(1) get the corresponding derivation
+(2) add the string to the derivation collection
+*/
+
 public class Solution {
     public String getOriginal(String str){
         char [] arr = str.toCharArray();
