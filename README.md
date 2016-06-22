@@ -224,6 +224,13 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Solve it without division and in O(n).**</br>
 **For example, given [1,2,3,4], return [24,12,8,6].**</br>
 
+###249. Group Shifted Strings [Solution] (https://github.com/ycl11761/Leetcode/blob/master/249_GroupShiftedStrings.java)
+**Given a string, we can "shift" each of its letter to its successive letter,**</br>
+**for example: "abc" -> "bcd". We can keep "shifting" which forms the sequence: "abc" -> "bcd" -> ... -> "xyz"**</br>
+**Given a list of strings which contains only lowercase alphabets, group all strings that belong to the same shifting sequence.**</br>
+**For example, given: ["abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"],**</br>
+**A solution is: [ ["abc","bcd","xyz"], ["az","ba"], ["acef"], ["a","z"] ]**</br>
+
 ###258. Add Digits [Solution] (https://github.com/ycl11761/Leetcode/blob/master/258_AddDigits.c)
 **Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.**</br>
 **For example: Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.**</br>
