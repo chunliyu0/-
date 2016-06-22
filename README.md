@@ -264,6 +264,16 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **isUnique("cane") -> false,**
 **isUnique("make") -> true**
 
+###290. Word Pattern [Solution] (https://github.com/ycl11761/Leetcode/blob/master/290_WordPattern.java)
+**Given a pattern and a string str, find if str follows the same pattern.**</br>
+**Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in str.**</br>
+**Examples:</br>
+**pattern = "abba", str = "dog cat cat dog" should return true.**</br>
+**pattern = "abba", str = "dog cat cat fish" should return false.**</br>
+**pattern = "aaaa", str = "dog cat cat dog" should return false.**</br>
+**pattern = "abba", str = "dog dog dog dog" should return false.**</br>
+*Notes:You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.*</br>
+
 ###326. Power of Three [Solution] (https://github.com/ycl11761/Leetcode/blob/master/326_PowerOfThree.java)
 **Given an integer, write a function to determine if it is a power of three.**</br>
 **Follow up: Could you do it without using any loop / recursion?**
