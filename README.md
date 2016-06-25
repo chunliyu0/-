@@ -133,6 +133,10 @@
 **Find the minimum element.**</br>
 **You may assume no duplicate exists in the array.**</br>
 
+###154. Find Minimum in Rotated Sorted Array II [Solution] (https://github.com/ycl11761/Leetcode/blob/master/154_FindMinimumInRotatedSortedArrayII.c)
+**Suppose a sorted array is rotated at some pivot unknown to you beforehand. (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).**</br>
+**Find the minimum element. The array may contain duplicates.**</br>
+
 ###160. Intersection of Two Linked Lists [Solution] (https://github.com/ycl11761/Leetcode/blob/master/160_IntersectionNode.c)
 **Write a program to find the node at which the intersection of two singly linked lists begins.**</br>                              **For example, the following two linked lists: begin to intersect at node c1.**</br> 
 A:          a1 → a2 → c1 → c2 → c3</br>
