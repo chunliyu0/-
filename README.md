@@ -249,6 +249,12 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **For example: Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.**</br>
 **Follow up: Could you do it without any loop/recursion in O(1) runtime?**
 
+###260. Single Number III [Solution] (https://github.com/ycl11761/Leetcode/blob/master/260_SingleNumberIII.c)
+**Given an array of numbers nums, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.**</br>
+**For example: Given nums = [1, 2, 1, 3, 2, 5], return [3, 5].**</br>
+**Note: The order of the result is not important. So in the above example, [5, 3] is also correct.**</br>
+**Your algorithm should run in linear runtime complexity. Could you implement it using only constant space complexity?**</br>
+
 ###263. Ugly Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/263_UglyNumber.java)
 **Write a program to check whether a given number is an ugly number.**</br>
 **Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. **</br>
