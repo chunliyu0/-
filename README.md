@@ -45,6 +45,11 @@
 ###028. Implement strStr() [Solution](https://github.com/ycl11761/Leetcode/blob/master/028_strStr().c)
 **Implement strStr(). Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.**
 
+###033. Search in Rotated Sorted Array [Solution](https://github.com/ycl11761/Leetcode/blob/master/033_SearchInRotatedSortedArray.c)
+**Suppose a sorted array is rotated at some pivot unknown to you beforehand.**</br>
+**(i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).**</br>
+**You are given a target value to search. If found in the array return its index, otherwise return -1.**</br>
+
 ###034. Search for a Range [Solution](https://github.com/ycl11761/Leetcode/blob/master/034_SearchForARange.c)
 **Given a sorted array of integers, find the starting and ending position of a given target value.**</br>
 **Your algorithm's runtime complexity must be in the order of O(log n).**</br>
