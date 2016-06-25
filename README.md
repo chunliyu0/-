@@ -90,6 +90,10 @@
 **For example,Given sorted array nums = [1,1,1,2,2,3],Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new length.**                              
 *Note: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.*  
 
+###081. Search in Rotated Sorted Array II [Solution](https://github.com/ycl11761/Leetcode/blob/master/081_SearchInRotatedSortedArrayII.c)
+**Follow up for "Search in Rotated Sorted Array": What if duplicates are allowed? Would this affect the run-time complexity? How and why?**</br>
+**Write a function to determine if a given target is in the array.</br>
+
 ###082. Remove Duplicates from Sorted List II [Solution](https://github.com/ycl11761/Leetcode/blob/master/082_RemoveDuplicatesII.c)
 **Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.**
 **For example,**
