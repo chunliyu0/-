@@ -92,7 +92,7 @@
 
 ###081. Search in Rotated Sorted Array II [Solution](https://github.com/ycl11761/Leetcode/blob/master/081_SearchInRotatedSortedArrayII.c)
 **Follow up for "Search in Rotated Sorted Array": What if duplicates are allowed? Would this affect the run-time complexity? How and why?**</br>
-**Write a function to determine if a given target is in the array.</br>
+**Write a function to determine if a given target is in the array.**</br>
 
 ###082. Remove Duplicates from Sorted List II [Solution](https://github.com/ycl11761/Leetcode/blob/master/082_RemoveDuplicatesII.c)
 **Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.**
