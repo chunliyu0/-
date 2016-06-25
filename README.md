@@ -264,6 +264,11 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **Given a string, determine if a permutation of the string could form a palindrome.**</br>
 **For example, "code" -> False, "aab" -> True, "carerac" -> True.**
 
+###268. Missing Number [Solution] (https://github.com/ycl11761/Leetcode/blob/master/268_MissingNumber.c)
+**Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.**</br>
+**For example, Given nums = [0, 1, 3] return 2.**</br>
+**Note: Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?**</br>
+
 ###278. First Bad Version [Solution] (https://github.com/ycl11761/Leetcode/blob/master/278_FirstBadVersion.c)
 **You are a product manager and currently leading a team to develop a new product.**</br>
 **Unfortunately, the latest version of your product fails the quality check.**</br>
