@@ -310,6 +310,15 @@ B:     b1 → b2 → b3 → c1 → c2 → c3</br>
 **pattern = "abba", str = "dog dog dog dog" should return false.**</br>
 *Notes:You may assume pattern contains only lowercase letters, and str contains lowercase letters separated by a single space.*</br>
 
+###299. Bulls and Cows [Solution] (https://github.com/ycl11761/Leetcode/blob/master/299_BullsAndCows.java)
+**You are playing the following Bulls and Cows game with your friend: You write down a number and ask your friend to guess what the number is.**</br> 
+**Each time your friend makes a guess, you provide a hint that indicates how many digits in said guess match your secret number exactly in both digit and position (called "bulls") and how many digits match the secret number but locate in the wrong position (called "cows"). Your friend will use successive guesses and hints to eventually derive the secret number.**</br>
+**For example: Secret number:  "1807", Friend's guess: "7810"; Hint: 1 bull and 3 cows. (The bull is 8, the cows are 0, 1 and 7.)**</br>
+**Write a function to return a hint according to the secret number and friend's guess,use A to indicate the bulls and B to indicate the cows. In the above example, your function should return "1A3B".**</br>
+**Please note that both secret number and friend's guess may contain duplicate digits, **</br>
+**for example:Secret number:  "1123", Friend's guess: "0111"; In this case, the 1st 1 in friend's guess is a bull, the 2nd or 3rd 1 is a cow, and your function should return "1A1B".**</br>
+**You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal.**</br>
+
 ###326. Power of Three [Solution] (https://github.com/ycl11761/Leetcode/blob/master/326_PowerOfThree.java)
 **Given an integer, write a function to determine if it is a power of three.**</br>
 **Follow up: Could you do it without using any loop / recursion?**
