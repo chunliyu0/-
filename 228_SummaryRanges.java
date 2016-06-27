@@ -1,3 +1,7 @@
+/* Analysis
+(1) using start to record the start point of the new range
+*/
+
 public class Solution {
     public List<String> summaryRanges(int[] nums) {
         List<String> ret = new ArrayList<String>();
