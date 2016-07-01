@@ -1,5 +1,6 @@
 /* Analysis
-just check if the value at the odd index is the partial greatest one.
+(1) just check if the value at the odd index is the partial greatest one.
+(2) take care of the case when it reaches the last one
 */
 
 void swap(int * n1, int * n2){
