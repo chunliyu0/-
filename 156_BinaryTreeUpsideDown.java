@@ -1,6 +1,8 @@
 /* Analysis - Inorder
-(1) Using a stack to store node on the path from the root to the new root;
-(2) We just need to reverse the node simply from the root to the new root
+(1) tmp.left = parent.right;
+    tmp.right = parent;
+    We just need to reverse the node simply from the root to the new root
+(2) Using a stack to store node on the path from the root to the new root;
 */
 
 // I BEST SOLUTION:
