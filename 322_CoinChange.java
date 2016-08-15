@@ -1,5 +1,6 @@
 /* Analysis - DP_1D
 (1) pay attention that the coins may not be sorted in advance
+(2) To each amount, check the current combination of different coins.
 */
 
 public class Solution {
