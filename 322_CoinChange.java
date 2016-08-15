@@ -21,3 +21,25 @@ public class Solution {
         return ref[amount] > amount ? -1: ref[amount];
     }
 }
+
+/* Analysis - DP_1D
+(1) pay attention that the coins may not be sorted in advance
+(1) traverse different coins
+*/
+
+public class Solution {
+    public int coinChange(int[] coins, int amount) {
+        int [] ref = new int[amount + 1];
+        ref[0] = 0;
+        for(int i = 1; i <= amount; i++){
+            ref[i] = amount + 1;//初始时设置为一个不可能的大值
+        }
+        
+        for(int c: coins){
+            for(int a = c; a <= amount; a++)
+                ref[a] = Math.min(ref[a], ref[a-c] + 1);
+        }
+    
+        return (ref[amount] > amount ? -1: ref[amount]);
+    }
+}
