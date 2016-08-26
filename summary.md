@@ -6,3 +6,4 @@
 
 ***typical problems:***
 (a) Palindrome
+(b) Tree
