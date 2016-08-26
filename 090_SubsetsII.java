@@ -5,14 +5,14 @@ Remove the repeated ones
 public class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ret = new ArrayList<List<Integer>>();
-        List<Integer> curr = new ArrayList<>();
-        dfs(ret, curr, nums, 0);
+        Arrays.sort(nums);
+        dfs(ret, new ArrayList<>(), nums, 0);
         return new ArrayList<List<Integer>>(ret);
     }
     
     public void dfs(List<List<Integer>> ret, List<Integer> curr, int[] nums, int i) {
         if(i == nums.length){
-            ret.add(curr);
+            if(!ret.contains(curr))ret.add(curr);
             return;
         }
         List<Integer> tmp1 = new ArrayList<>(curr);
