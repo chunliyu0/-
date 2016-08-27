@@ -7,8 +7,10 @@
 (4) **all the sorted array can be solved by binary search**</br></br>
 
 ***typical problems:***
-(a) Palindrome
-(b) Tree
-
-(5) Math Problems:</br>
+(a) Palindrome</br>
+(b) Tree</br>
+(c) Matrix</br>
+(d) Math</br>
 + permutation sequence
+
+
