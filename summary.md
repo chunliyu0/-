@@ -9,3 +9,6 @@
 ***typical problems:***
 (a) Palindrome
 (b) Tree
+
+(5) Math Problems:</br>
++ permutation sequence
