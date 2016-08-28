@@ -11,6 +11,7 @@
 (b) Tree</br>
 (c) Matrix</br>
 (d) Math</br>
+(e) Number</br>
 + permutation sequence
 
 
