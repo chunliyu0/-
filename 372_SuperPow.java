@@ -1,6 +1,7 @@
 //https://www.hrwhisper.me/leetcode-super-pow/
 /* Analysis
-(1) Consider Overflow
+(1) x^325 = (x^300) * (x^20) * (x^5) = [(x^(100))^3] * [(x^(10))^2] * [x^5]
+(2) Consider Overflow
 */
 
 public class Solution {
