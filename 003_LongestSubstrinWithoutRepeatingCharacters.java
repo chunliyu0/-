@@ -1,3 +1,5 @@
+/* Analysis - HashMap */
+
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         if(s==null||s.length()==0)return 0;
