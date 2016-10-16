@@ -63,3 +63,42 @@ public class Solution {
         ref.put("nine", 9);
     }
 }
+
+
+public class Solution {
+    public String originalDigits(String s) {
+        int[] ret = new int[10];
+        char[] arr = s.toCharArray();
+        for(char ch: arr){
+            switch(ch){
+                case 'z': ret[0]++;break;
+                case 'w': ret[2]++;break;
+                case 'u': ret[4]++;break;
+                case 'x': ret[6]++;break;
+                case 'g': ret[8]++;break;
+                case 'h': ret[3]++;break; // eight, three
+                case 'f': ret[5]++;break; // four, five
+                case 'v': ret[7]++;break; // five, seven
+                case 'o': ret[1]++;break; // zero, two, four, one
+                case 'i': ret[9]++;break; // five, six, eight, nine
+                default:break;
+            }
+        }
+        ret[3] -= ret[8];
+        ret[5] -= ret[4];
+        ret[7] -= ret[5];
+        ret[1] -= (ret[0] + ret[2] + ret[4]);
+        ret[9] -= (ret[5] + ret[6] + ret[8]);
+        
+        // convert the result array to a string
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0; i < ret.length; i++){
+            while(ret[i] > 0){
+                sb.append(i);
+                ret[i]--;
+            }
+        }
+        
+        return sb.toString();
+    }
+}
