@@ -1,5 +1,3 @@
-/* Analysis - Stack */
-
 /**
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation
@@ -30,43 +28,42 @@
  */
 public class Solution {
     public NestedInteger deserialize(String s) {
-        if(s==null)return new NestedInteger();
         Stack<NestedInteger> stk = new Stack<>();
-        char [] arr = s.toCharArray();
-        int sign = 1;
+        int n = s.length(), sign = 1;
         
-        for(int i = 0; i < arr.length; i++){
-            if(arr[i] == '['){
+        for(int i = 0; i < n; i++){
+            char ch = s.charAt(i);
+            if(ch == '['){
                 NestedInteger ni = new NestedInteger();
-                stk.add(ni);
+                stk.push(ni);
             }
-            else if(arr[i] == ']'){//incorporate into the previous nestedInteger
+            else if(ch == ']'){ //incorporate into the previous nestedInteger
                 if(stk.size() > 1){
                     NestedInteger ni = stk.pop();
                     stk.peek().add(ni);
                 }
             }
-            else if(arr[i] == '-'){
+            else if(ch == '-')
                 sign = -1;
-            }
-            else if(arr[i] == ','){
-                continue;
-            }
-            else{// the character is a digit
-                int num = arr[i] - '0';
-                while(i+1 < arr.length && arr[i+1] >= '0' && arr[i+1] <= '9'){// we already know that i is valid
-                    num = num * 10 + (arr[i+1] - '0');
+            else{
+                int num = 0;
+                while(ch != ','){
+                    num = num * 10 + (ch - '0');
                     i++;
+                    if(i == n)
+                        break;
+                    ch = s.charAt(i);
                 }
-                NestedInteger ni = new NestedInteger(sign*num);
+                NestedInteger ni = new NestedInteger(sign * num);
                 sign = 1;
                 if(stk.isEmpty())
                     stk.add(ni);
                 else
                     stk.peek().add(ni);
+                
             }
         }
-        return stk.peek();
         
+        return stk.pop();
     }
 }
